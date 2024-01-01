@@ -1,11 +1,5 @@
-import React from 'react'
-
 function Timeout() {
-  return (
-    <div>
-       Timeout
-    </div>
-  )
+  return <div>Timeout</div>;
 }
 
-export default Timeout
+export default Timeout;
